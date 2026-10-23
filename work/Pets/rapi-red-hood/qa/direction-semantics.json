@@ -1,0 +1,24 @@
+{
+  "reviewed_artifact": "final/spritesheet-extended.png",
+  "method": "Normal-size neutral-plus-sixteen labeled sheet and enlarged face landmarks; lower body registration and both loop boundaries inspected.",
+  "directions": {
+    "000": {"expected":"up","observed":"Head lifted frontally, gaze above camera","verdict":"pass","evidence":"Chin underside and extended neck show upward pitch; pupils sit toward upper lids; boots stay planted."},
+    "022.5": {"expected":"up-right","observed":"Lifted face yawed toward viewer right","verdict":"warning","evidence":"Nose projects right of head midpoint and chin stays lifted; similarity to 045 is subtle, but both horizontal right and vertical up remain readable."},
+    "045": {"expected":"up-right","observed":"Rightward head turn with raised chin and eyes","verdict":"pass","evidence":"Right nose profile and exposed left cheek establish right yaw; upward eye line and raised chin establish up."},
+    "067.5": {"expected":"up-right","observed":"Predominantly right with slight upward pitch","verdict":"pass","evidence":"Nose protrudes screen-right; face remains raised and irises slightly high, approaching the horizontal right cardinal."},
+    "090": {"expected":"right","observed":"Clear head and face toward screen-right","verdict":"pass","evidence":"Nose tip is at right edge of face, near cheek occludes and gaze points right; frontal belt and feet do not rotate."},
+    "112.5": {"expected":"down-right","observed":"Right turn beginning a downward head bow","verdict":"pass","evidence":"Nose/face still offset right; chin lowers toward collar and upper bangs slope downward over eye line."},
+    "135": {"expected":"down-right","observed":"Bowed face directed right and downward","verdict":"pass","evidence":"Visible right nose/cheek projection preserves right yaw; hat top expands and chin tucks toward tie for down."},
+    "157.5": {"expected":"down-right","observed":"Strong downward bow with residual right yaw","verdict":"pass","evidence":"Nose and face opening remain slightly right of head midpoint; fringe lowered across eyes and chin tucked. Boundary to 180 changes face direction without scale/foot jump."},
+    "180": {"expected":"down","observed":"Unmistakable frontal head bow","verdict":"pass","evidence":"Hat top and bangs dominate, eyes lowered/closed, nose and chin point into collar; feet stay on idle baseline."},
+    "202.5": {"expected":"down-left","observed":"Downward head bow slightly toward screen-left","verdict":"pass","evidence":"Nose and exposed eye area shift left of head center; chin remains down near tie and hat top remains prominent."},
+    "225": {"expected":"down-left","observed":"Leftward bowed face","verdict":"pass","evidence":"Nose and face opening project left while fringe covers upper eyes and chin remains tucked for down."},
+    "247.5": {"expected":"down-left","observed":"Mostly left with slight downward pitch","verdict":"pass","evidence":"Left nose contour and left gaze are clear; chin remains lowered and eye line points beneath neutral horizontal."},
+    "270": {"expected":"left","observed":"Face and gaze turned screen-left","verdict":"pass","evidence":"Nose tip/face opening lie screen-left, visible opposite cheek and red irises look left; torso and feet remain frontal."},
+    "292.5": {"expected":"up-left","observed":"Left turn with beginning upward pitch","verdict":"pass","evidence":"Nose stays on left side of head; chin lifts, collar-to-chin space increases and eyes look above-left."},
+    "315": {"expected":"up-left","observed":"Raised face toward upper-left","verdict":"pass","evidence":"Left-facing nose and cheek preserve left yaw, while upward eye line and raised chin establish up; no reversal toward right."},
+    "337.5": {"expected":"up-left","observed":"Nearly frontal lifted face with slight left gaze","verdict":"pass","evidence":"Chin underside exposed and eyes high establish up; nose and irises subtly left of head center preserve left half. Flows into 000 without body drift."}
+  },
+  "continuity_review": "Metric warnings at 000->022.5 and 157.5->180 correspond to head yaw and the frontal bow. Native-size visual review shows small registered changes, no clipping, alpha holes, reversed gaze, identity break, or conspicuous size jump. Neighbor differences are not evenly distributed; 022.5 and 045 are similar.",
+  "standard_motion_review": "All nine independent state strips reviewed at native cells. Idle blink is visible; gaits alternate and face correct direction; greeting arm remains attached; jump lifts 30px and lands within 2px of idle; failure slumps and resolves, waiting asks with open palm, active-work checks harness with planted feet, review uses chin and head gestures. Final single despill removes cyan edging without changing alpha."
+}

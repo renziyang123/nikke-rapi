@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A's nose and chin project left of the face center; B's nose and chin project right, with the eyes following the head turn."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A shows the nose and face contour turned left; B shows the nose and open face contour turned right."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A's nose, chin, and gaze point left; B's nose and gaze point right with more cheek visible on the opposite side."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A's projecting nose and face opening are on the right; B's nose, chin, and visible eye point left."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"A's lowered face has its nose and gaze directed right; B's lowered face has its nose and gaze directed left."},
+    {"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"A's nose and chin are displaced left beneath the bangs; B's nose and chin are displaced right beneath the bangs."},
+    {"pair":"horizontal-7","A":"screen-right","B":"screen-left","reason":"Both heads bow, but A's face and nose protrude to the right of the bangs while B's visible eye and nose point left."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A has raised eyes and chin with an exposed face; B bows its head, with bangs covering the eyes and chin close to the chest."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's crown and bangs dominate its bowed face; B's chin is raised and eyes look upward."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A lowers its gaze and chin toward the chest; B raises its chin and gaze, exposing more face beneath the bangs."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A's eyes and nose angle downward with a lowered chin; B's nose and chin tilt upward and its gaze is raised."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A exposes the face with eyes and chin raised; B lowers the face beneath the fringe and brings its chin toward the collar."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A's eyes and nose angle upward with a lifted chin; B's gaze is low and its face is tucked beneath the bangs."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's lowered eyes and tucked chin sit under heavier fringe coverage; B lifts its eyes, nose, and chin with more face exposed."}
+  ]
+}

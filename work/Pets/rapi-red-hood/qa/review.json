@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15259,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 70
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15280,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 136
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15249,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 102
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15237,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 87
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15216,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 60
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15262,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 66
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15809,
+          "bbox": [
+            22,
+            7,
+            170,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 234
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14915,
+          "bbox": [
+            26,
+            8,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 193
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14700,
+          "bbox": [
+            27,
+            7,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15158,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15551,
+          "bbox": [
+            22,
+            7,
+            169,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 232
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15123,
+          "bbox": [
+            25,
+            6,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14780,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15113,
+          "bbox": [
+            25,
+            6,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 201
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15782,
+          "bbox": [
+            19,
+            7,
+            172,
+            197
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 232
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14774,
+          "bbox": [
+            25,
+            7,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14835,
+          "bbox": [
+            25,
+            6,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15071,
+          "bbox": [
+            23,
+            5,
+            168,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15509,
+          "bbox": [
+            23,
+            6,
+            168,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14835,
+          "bbox": [
+            25,
+            7,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15010,
+          "bbox": [
+            25,
+            5,
+            166,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14501,
+          "bbox": [
+            28,
+            5,
+            163,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 179
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15843,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16136,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16300,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16012,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 52
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12321,
+          "bbox": [
+            31,
+            50,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12367,
+          "bbox": [
+            31,
+            28,
+            161,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12804,
+          "bbox": [
+            31,
+            5,
+            161,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13070,
+          "bbox": [
+            31,
+            24,
+            161,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 49
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12280,
+          "bbox": [
+            31,
+            50,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 21
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14486,
+          "bbox": [
+            34,
+            7,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 123
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14020,
+          "bbox": [
+            37,
+            11,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 92
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13903,
+          "bbox": [
+            37,
+            13,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 94
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13973,
+          "bbox": [
+            36,
+            14,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 102
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13900,
+          "bbox": [
+            36,
+            14,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 120
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14106,
+          "bbox": [
+            36,
+            7,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 101
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14322,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 109
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14565,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14394,
+          "bbox": [
+            35,
+            6,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 54
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14492,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 63
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14648,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 68
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14646,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 82
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14827,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14447,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14495,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 67
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14471,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 72
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14442,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 68
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14473,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 69
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14388,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 82
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14463,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 76
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14369,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14399,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 46
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14377,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13827,
+          "bbox": [
+            34,
+            15,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 41
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14452,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 48
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14323,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        }
+      ]
+    }
+  ]
+}

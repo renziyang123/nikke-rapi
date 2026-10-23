@@ -1,0 +1,7 @@
+Create one clean full-body reference sprite for ChatGPT pet 拉毗.
+
+Pet identity: Preserve existing Rapi Red Hood pet costume, proportions and eye construction. Later personality is warm, teasing, mischievous, mildly smug with secretive grin and blush, still professional while working. USER OVERRIDE: remove all jumping; row named jumping is now five grounded hand-to-mouth chuckle poses, boots planted, no knee tuck or vertical movement. Replace generic jumping instructions with this. Smirks use asymmetric mouth and half-lidded eyes. Failure grits teeth and pouts, waiting blushes and expects input, greeting waves with teasing smile, review gives knowing smirk. Gun stays attached, no new props/effects..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `sticker`: Polished sticker mascot with bold clean shapes, crisp outline, flat colors, and minimal highlight detail. User style notes: Same cel-shaded compact anime chibi with thick dark contours, readable eye/mouth expressions..
+
+
+Place a single centered pose on a perfectly flat pure magenta #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #FF00FF and close colors out of the pet, props, highlights, and effects.

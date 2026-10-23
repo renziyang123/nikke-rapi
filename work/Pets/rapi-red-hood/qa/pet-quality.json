@@ -1,0 +1,65 @@
+{
+  "ok": true,
+  "atlas": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\final\\spritesheet-extended.png",
+  "encoded_bytes": 3349804,
+  "sha256": "6378eff75d2164224f9f340c79d1b778057a006b709ca5e9de1bcb8da84cbaf9",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      191,
+      171,
+      189,
+      202
+    ],
+    "airborne_lift_pixels": 31,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      95.5,
+      93.0,
+      92.0,
+      92.0,
+      93.0,
+      90.0,
+      92.0,
+      93.5,
+      98.0,
+      98.5,
+      98.5,
+      97.5,
+      98.5,
+      97.5,
+      98.0,
+      96.5
+    ],
+    "look_widths": [
+      119,
+      116,
+      114,
+      114,
+      114,
+      114,
+      116,
+      117,
+      128,
+      129,
+      127,
+      129,
+      127,
+      129,
+      130,
+      125
+    ],
+    "maximum_center_drift_pixels": 5.5,
+    "maximum_width_ratio": 1.1403508771929824
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "000->022.5 diff is a local outlier (3113 pixels vs neighbor average 1746)",
+    "157.5->180 diff is a local outlier (2954 pixels vs neighbor average 1478)"
+  ]
+}

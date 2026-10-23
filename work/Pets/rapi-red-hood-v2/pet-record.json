@@ -1,0 +1,14 @@
+{
+  "pet_id": "pet_6adb792197dc8191ba7a88a576da56cf",
+  "name": "拉毗",
+  "description": "外表认真、藏着小坏心思的拉毗：半眯眼坏笑、掩嘴偷笑、害羞脸红和咬牙不服气；跳跃已改为双脚着地的偷笑。",
+  "is_custom": true,
+  "is_active": true,
+  "sprite_file": "spritesheet.png",
+  "sprite_version": 2,
+  "sha256": "794f838299ec9e976042f2036537658be05bfdb3e79657e5ef744b5ef544ac77",
+  "bytes": 3533497,
+  "revision": "Seven expressive rows revised; jumping replaced with grounded chuckle at user's explicit request.",
+  "generation": "Built-in imagegen; actual prompts under prompts/used-*.md",
+  "storage": "Local source archive; no ChatGPT Library folder API available."
+}

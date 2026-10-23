@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\jumping\\frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\jumping\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12321,
+          "bbox": [
+            31,
+            50,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\jumping\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12367,
+          "bbox": [
+            31,
+            28,
+            161,
+            193
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\jumping\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12804,
+          "bbox": [
+            31,
+            5,
+            161,
+            173
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\jumping\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13070,
+          "bbox": [
+            31,
+            24,
+            161,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 49
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\jumping\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12280,
+          "bbox": [
+            31,
+            50,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 21
+        }
+      ]
+    }
+  ]
+}

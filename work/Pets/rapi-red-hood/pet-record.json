@@ -1,0 +1,13 @@
+{
+  "pet_id": "pet_6adb792197dc8191ba7a88a576da56cf",
+  "name": "拉吡",
+  "description": "拉吡·小红帽的红发Q版伙伴：扶帽敬礼、待命请示、检查装备与托腮审阅，陪你认真完成每个任务。",
+  "is_custom": true,
+  "active_verified": true,
+  "sprite_version": 2,
+  "sprite_file": "spritesheet.png",
+  "sha256": "6378eff75d2164224f9f340c79d1b778057a006b709ca5e9de1bcb8da84cbaf9",
+  "bytes": 3349804,
+  "generation": "Built-in imagegen; nine independently generated animation strips and sixteen gaze poses assembled with bundled Pets scripts.",
+  "storage": "Local archive. ChatGPT Library folder tools were not available in this session. Pet persistence and active state verified through Pets tools."
+}

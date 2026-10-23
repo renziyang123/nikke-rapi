@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\failed\\frames",
+  "states": [
+    "failed"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\failed\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14486,
+          "bbox": [
+            34,
+            7,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 123
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\failed\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14020,
+          "bbox": [
+            37,
+            11,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 92
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\failed\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13903,
+          "bbox": [
+            37,
+            13,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 94
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\failed\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13973,
+          "bbox": [
+            36,
+            14,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 102
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\failed\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13900,
+          "bbox": [
+            36,
+            14,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 120
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\failed\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14106,
+          "bbox": [
+            36,
+            7,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 101
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\failed\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14322,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 109
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\z\\Documents\\Codex\\2026-10-23\\pets-plugin-work-pets-openai-curated\\work\\Pets\\rapi-red-hood\\qa\\rows\\failed\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14565,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        }
+      ]
+    }
+  ]
+}

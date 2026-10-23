@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "semantics": "grounded-chuckle; jumping explicitly removed by user",
+  "foot_baselines": [
+    202,
+    202,
+    202,
+    202,
+    202
+  ],
+  "maximum_baseline_difference": 0
+}

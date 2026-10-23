@@ -1,0 +1,8 @@
+{
+  "purpose": "Uniform whole-source resolution normalization before shared atlas transform; no per-pose scaling",
+  "source_median_heights": [
+    443.0,
+    360.0
+  ],
+  "uniform_factor": 1.2305555555555556
+}

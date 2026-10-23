@@ -1,0 +1,18 @@
+{
+  "pairs": [
+    {"pair":"horizontal-1","A":"screen-left","B":"screen-right","reason":"A's nose and pupils sit toward screen-left; B's face outline, nose, and gaze angle screen-right."},
+    {"pair":"horizontal-2","A":"screen-left","B":"screen-right","reason":"A's visible face projects left beneath the bangs; B's nose and exposed cheek project right."},
+    {"pair":"horizontal-3","A":"screen-left","B":"screen-right","reason":"A shows a left-facing nose and eye line; B's nose silhouette and gaze face right."},
+    {"pair":"horizontal-4","A":"screen-right","B":"screen-left","reason":"A's nose points right with the near eye on the right-facing cheek; B's nose and exposed face point left."},
+    {"pair":"horizontal-5","A":"screen-right","B":"screen-left","reason":"Despite the lowered chin, A's nose and face project right; B's visible eye and nose project left."},
+    {"pair":"horizontal-6","A":"screen-left","B":"screen-right","reason":"A's lowered face and visible eye angle left; B's lowered nose and cheek angle right."},
+    {"pair":"horizontal-7","A":"screen-right","B":"screen-left","reason":"A's deeply lowered face still projects right beneath the fringe; B's visible eye and nose angle left."},
+    {"pair":"vertical-1","A":"up","B":"down","reason":"A has a lifted chin and eyes looking above center; B's crown and bangs dominate while the chin tucks toward the chest."},
+    {"pair":"vertical-2","A":"down","B":"up","reason":"A's bowed head hides most eyes under the fringe; B's lifted chin exposes the lower face and directs the eyes upward."},
+    {"pair":"vertical-3","A":"down","B":"up","reason":"A's gaze and nose slope toward the chest; B's chin and nose lift and the gaze points upward."},
+    {"pair":"vertical-4","A":"down","B":"up","reason":"A's chin is lowered and eyes angle down; B's chin is raised and its right-facing nose and gaze tilt upward."},
+    {"pair":"vertical-5","A":"up","B":"down","reason":"A's lifted face exposes the chin with eyes raised; B's forehead tilts forward and eyes sit low beneath the bangs."},
+    {"pair":"vertical-6","A":"up","B":"down","reason":"A's left-facing chin is lifted and pupils look upward; B's left-facing chin is tucked and gaze is lowered."},
+    {"pair":"vertical-7","A":"down","B":"up","reason":"A's bangs lower over the eyes and chin points toward the chest; B's head and left-facing nose lift with an upward eye line."}
+  ]
+}
